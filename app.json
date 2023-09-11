@@ -4,15 +4,15 @@
   "description": "TÜRK-C TAG bot sıze ucretsız uyelerınızı etıketleyen bı bottur.",
   "env": {
     "TOKEN": {
-      "description": "bot token girin YOUTUBE KANALIMDA KURULUMU VAR .",
+      "description": "6445812901:AAGWkDcMs4PxfSCSD9zeN9Keg4ooq7uKnpA",
       "value": ""
     },
     "APP_ID": {
-      "description": "@otomytelegrambot dan api hash api id alınız. @turkcbot'a katıl sorunsuz çalışsın",
+      "description": "27609760",
       "value": ""
     },
     "API_HASH": {
-      "description": "@otomytelegrambot dan api hash api id alınız.",
+      "description": "ef1d888121d7e6f595878f0fc62d66cd",
       "value": ""
     }
   },
